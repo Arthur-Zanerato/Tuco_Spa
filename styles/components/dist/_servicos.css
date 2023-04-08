@@ -1,0 +1,44 @@
+#servico {
+  margin: 80px;
+}
+#servico h4 {
+  font-size: 1.2rem;
+  color: #74959a;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin: 1rem;
+}
+#servico h3 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 80px;
+  font-weight: 300;
+}
+#servico .cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+#servico .cards .card {
+  width: 20rem;
+  text-align: center;
+}
+#servico .cards .card h5 {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+  color: #495371;
+}
+#servico .cards .card p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #495371;
+  line-height: 1.25rem;
+}
+#servico .cards .card .img-container {
+  padding-bottom: 2px;
+  border-bottom: 6px #74959a;
+}
+#servico .cards .card .img-container img {
+  max-width: 100%;
+}
